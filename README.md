@@ -307,5 +307,8 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 _(Nothing yet)_
 
 ## License
-Copyright (c) 2013 Blaine Bublitz
+
+Forked by Mika Turunen 2015.
+
+Original work Copyright (c) 2013 Blaine Bublitz
 Licensed under the MIT license.
